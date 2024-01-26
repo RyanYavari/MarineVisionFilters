@@ -1,6 +1,4 @@
-// netpbm.h
-// Functions for reading and writing binary PBM, PGM, and PPM image files.
-// V2.2 by Marc Pomplun on 10/19/2013
+
 
 #define SQR(x) ((x)*(x))
 #define PI 3.14159265358979323846
